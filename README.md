@@ -1,4 +1,4 @@
-pgnviewer
+pgnviewer (relative paths)
 =========
 
 A simple PGN viewer with chessboard.js and chess.js.
