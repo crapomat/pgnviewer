@@ -7,7 +7,7 @@ A simple PGN viewer with chessboard.js and chess.js.
 * chess.js: https://github.com/jhlywa/chess.js
 
 About this fork:
-* Absolute paths changed to relative
+* Absolute paths changed to relative (should make it easier to integrate into other websites)
 * Added Autoplay Button. Doesn't work well, but works.
 
 License
