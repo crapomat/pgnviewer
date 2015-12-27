@@ -162,6 +162,7 @@ var starter = function() {
 
 $('#btnPlay').clickToggle(function() {
     starter();
+    nextmove(); // calling it here will remove start delay
     $('#btnPlay').children('i').removeClass('fa-play');
     $('#btnPlay').children('i').addClass('fa-stop');
     
